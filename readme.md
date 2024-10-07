@@ -1,6 +1,8 @@
 # Portfolio of Ariful
 
 ## Repository: 
+This repository consists of multiple submodules, each utilizing different technologies tailored to their specific functionalities.
+
 ### [ariful-org-nextjs-prisma](https://github.com/ariful-org-nextjs-prisma)
 Demo: [https://ariful.org](https://ariful.org)
 
