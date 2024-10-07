@@ -3,6 +3,15 @@
 ## Repository: 
 This repository consists of multiple submodules, each utilizing different technologies tailored to their specific functionalities.
 
+To clone the parent repository along with all its submodules, follow the steps below.
+```bash
+git clone https://github.com/arifariofficial/portfolio-ariful.git
+cd portfolio-ariful
+git submodule init
+git submodule update
+
+```
+
 ### [ariful-org-nextjs-prisma](https://github.com/ariful-org-nextjs-prisma)
 Demo: [https://ariful.org](https://ariful.org)
 
