@@ -1,0 +1,3 @@
+[submodule "nextjs-postgres-gcp-org"]
+	path = nextjs-postgres-gcp-org
+	url = https://github.com/arifariofficial/nextjs-postgres-gcp-org
