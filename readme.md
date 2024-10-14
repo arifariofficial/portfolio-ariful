@@ -5,7 +5,7 @@ This repository consists of multiple submodules, each utilizing different techno
 
 To clone the parent repository along with all its submodules, follow the steps below.
 ```bash
-git clone https://github.com/arifariofficial/nextjs-postgres-gcp-org.git
+git clone https://github.com/arifariofficial/portfolio-ariful.git
 cd portfolio-ariful
 git submodule init
 git submodule update
