@@ -12,7 +12,7 @@ git submodule update
 
 ```
 
-### [ariful-org-nextjs-prisma](https://github.com/arifariofficial/nextjs-postgres-gcp-org.git)
+### [nextjs-postgres-gcp-org.git](https://github.com/arifariofficial/nextjs-postgres-gcp-org.git)
 Demo: [https://ariful.org](https://ariful.org)
 
 This project is a modern, scalable web application built with **Next.js** and **TypeScript**, offering a maintainable and high-performing frontend and backend. It utilizes **PostgreSQL** as the core database to ensure data consistency, reliability, and optimal performance. Authentication is handled through **NextAuth**, providing a secure and flexible solution for user management and sign-ins.
