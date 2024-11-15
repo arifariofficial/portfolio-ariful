@@ -1,3 +1,6 @@
 [submodule "nextjs-postgres-gcp-org"]
 	path = nextjs-postgres-gcp-org
 	url = https://github.com/arifariofficial/nextjs-postgres-gcp-org
+[submodule "angular-springboot-pro"]
+	path = angular-springboot-pro
+	url = https://github.com/arifariofficial/angular-springboot-pro.git
